@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEncryption", "DataEncryption\DataEncryption.csproj", "{EF8AB498-5A78-4473-BE7D-DBF9F3E78124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8AB498-5A78-4473-BE7D-DBF9F3E78124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8AB498-5A78-4473-BE7D-DBF9F3E78124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8AB498-5A78-4473-BE7D-DBF9F3E78124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8AB498-5A78-4473-BE7D-DBF9F3E78124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112699F7-9EA3-4669-B2BD-C226DDE100E7}
+	EndGlobalSection
+EndGlobal
